@@ -27,5 +27,3 @@ Although it is a .NET Core application, it runs in Docker, so you can simply run
 `docker run -d -p 5001:80 --name restpizza resftulapi`
 
 In your browser: `http://localhost:5001/swagger/index.html`
-
-`Read the article and leave me some claps`
