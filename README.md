@@ -3,7 +3,6 @@
 A sample RESTful API.
 
 This repository contains the source code used for the article [How to build a RESTful API — A Deep Dive into REST APIs](https://itnext.io/how-to-build-a-restful-api-a-deep-dive-into-rest-apis-215188f80854) that covers in deep elements of the web architecture that are fundamental pieces of REST architecture.
-> The article is under the publishing process, and as soon it gets published, I'll update it with the link here.
 
 ## REST Pizza
 
